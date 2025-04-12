@@ -7,9 +7,8 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Luiz Fernando M. Paes | Links",
-  description: "Connect with Luiz Fernando M. Paes on various platforms",
-    generator: 'v0.dev'
+  title: "Luiz Fernando M. Paes",
+  description: "Connect with Luiz Fernando M. Paes on various platforms"
 }
 
 export default function RootLayout({
